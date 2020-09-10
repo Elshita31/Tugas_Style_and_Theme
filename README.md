@@ -5,3 +5,6 @@ dan banyak lagi yang lainnya. Gaya didefinisikan di Style.xml(Res--> Values -->s
 
 <h5>* Sebuah tema adalah style yang diterapkan pada keseluruhan Activity atau aplikasi, bukannya View individual (seperti dalam contoh di atas).</h5>
 
+<img src="11.jpg" height="400px" width="300px">
+<img src="111.jpg" height="400px" width="300px">
+
